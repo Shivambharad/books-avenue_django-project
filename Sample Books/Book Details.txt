@@ -1,0 +1,24 @@
+Title : My Inventions : The Autobiography of Nikola Tesla
+Category : Biography
+Author: Nikola Tesla
+Description : First published in February 1919 'My Inventions' is an enlightening autobiographical account of Nikola Tesla written at the age of 63. One of the most important technological innovators of the modern industrial age Nikola Tesla was a Serbian American inventor and engineer who discovered and patented the rotating magnetic field the root of most alternating-current machinery. He also originated the three-phase system of electric power transmission. He immigrated to the United States in 1884 and sold the patent rights of his system of alternating-current dynamos transformers and motors to George Westinghouse. In 1891 he invented the 'Tesla coil' an induction coil widely used in radio technology.
+Price : 299
+
+
+Title : Thinking, Fast And Slow
+Category : Self help / Non fiction
+Author : Daniel Kahneman
+Description : "Thinking, Fast And Slow" By Daniel Kahneman Is A Groundbreaking Book That Explores The Two Systems Of Thinking That Drive Human Decision-making. System 1 Is Fast, Automatic, And Intuitive, While System 2 Is Slow, Deliberate, And Analytical. Kahneman, A Nobel Laureate In Economics, Delves Into How These Systems Work Together To Shape Our Judgments, Often Leading To Biases, Errors, And Irrational Decisions. The Book Examines Various Cognitive Biases, Heuristics, And Logical Fallacies That Affect Our Thinking, Offering Insights Into How We Can Improve Decision-making In Both Personal And Professional Contexts. With Engaging Examples And Research, Thinking, Fast And Slow Provides A Deep Understanding Of The Human Mind And Its Complexities. Buy Thinking, Fast And Slow Book Online
+Price : 355
+
+
+Title : Einstein: His Life and Universe
+Category: Biography
+Author: Walter
+Description : Based on newly released personal letters, this book explores how an imaginative, impertinent patent clerk—a struggling father in a difficult marriage who couldn't get a teaching job—became the mind reader of the creator of the cosmos.
+Price: 550
+
+
+
+
+
